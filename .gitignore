@@ -25,3 +25,7 @@ staticfiles/
 # OS
 .DS_Store
 Thumbs.db
+
+# Celery
+celerybeat-schedule
+celerybeat.pid

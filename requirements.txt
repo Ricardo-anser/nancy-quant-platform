@@ -2,7 +2,7 @@ Django>=5.2
 djangorestframework>=3.14
 django-cors-headers
 python-decouple
-psycopg2-binary
+mysqlclient
 celery[redis]
 redis
 pandas
